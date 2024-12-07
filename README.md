@@ -65,6 +65,17 @@ Feel free to contact me anytime!
 </div>
 
 <div style="margin: 20px 0;">
+  <h3 style="text-align: center; font-weight: bold; color: #2E3A59;">🚀 <strong>Agile Methodologies</strong></h3>
+  <table style="width: 100%; border: none; text-align: center;">
+    <tr>
+      <td style="border: 2px solid green; padding: 10px; border-radius: 10px;">
+        <img src="https://img.shields.io/badge/Scrum-Master-%236DB33F?style=for-the-badge&logo=agile&logoColor=white" alt="Scrum Master" width="150">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="margin: 20px 0;">
   <h3 style="text-align: center; font-weight: bold; color: #2E3A59;">📊 <strong>Databases</strong></h3>
   <table style="width: 100%; border: none; text-align: center;">
     <tr>
@@ -76,6 +87,9 @@ Feel free to contact me anytime!
       </td>
       <td style="border: 2px solid blue; padding: 10px; border-radius: 10px;">
         <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" width="100">
+      </td>
+      <td style="border: 2px solid blue; padding: 10px; border-radius: 10px;">
+        <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" width="100">
       </td>
     </tr>
   </table>
@@ -146,14 +160,12 @@ Feel free to contact me anytime!
   <table style="width: 100%; border: none; text-align: center;">
     <tr>
       <td style="border: 2px solid blue; padding: 10px; border-radius: 10px;">
-        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" width="100">
-      </td>
-      <td style="border: 2px solid blue; padding: 10px; border-radius: 10px;">
         <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean" width="100">
       </td>
     </tr>
   </table>
 </div>
+
 
 <div style="margin: 20px 0;">
   <h3 style="text-align: center; font-weight: bold; color: #2E3A59;">💻 <strong>IDEs/Editors</strong></h3>
@@ -373,16 +385,12 @@ Feel free to contact me anytime!
 ## Check out my Social Media
 <img alt="dsmark" align="right" height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
-<a href= "https://www.instagram.com/valenwerle/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
 
-<a href="https://www.youtube.com/@ValenWerle">
+<a href="https://www.youtube.com/channel/UCc0QROac_z71yxmEXKciAOg">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
 
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting+my+portfolio;Hope+you+liked+it!;See+you+soon&center=true&width=380&height=45">
