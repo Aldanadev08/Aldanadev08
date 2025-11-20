@@ -510,6 +510,9 @@ Feel free to contact me anytime!
 
 ---
 
+
+
+
 <div style="margin: 40px 0;">
   <h2 style="text-align: center; font-weight: bold; color: #2E3A59;">📊 GitHub Stats, Trophies & Top Repos</h2>
 
@@ -526,37 +529,40 @@ Feel free to contact me anytime!
       <img src="https://github-profile-trophy.vercel.app/?username=Aldanadev08" alt="GitHub Trophies" width="450">
     </div>
   </div>
-
 ---
 
 ## Check out my Social Media
 <img alt="dsmark" align="right" height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
+
 <a href="https://www.youtube.com/channel/UCc0QROac_z71yxmEXKciAOg">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting+my+portfolio;Hope+you+liked+it!;See+you+soon&center=true&width=380&height=45">
   </a>
 </p>
-```javascript
-// Thank you message in JavaScript
-const portfolio = {
-  owner: "Christian Aldana",
-  role: "Full-Stack Developer",
-  specialties: ["Mobile Development", "Web Applications", "AI Integration"],
-  message: "Thank you so much for visiting my portfolio!",
-  footer: "I hope you found something interesting. See you soon! 🚀"
-};
 
-console.log(portfolio.message);
-console.log(portfolio.footer);
 ```
+public class Main {
+    public static void main(String[] args) {
+        // Thank you message
+        String thankYouMessage = "Thank you so much for visiting my portfolio!";
+        String footerMessage = "I hope you found something interesting. See you soon!";
 
+        // Print the message
+        System.out.println(thankYouMessage);
+        System.out.println(footerMessage);
+    }
+}
+
+```
 <hr>
 
 <footer style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 40px; font-size: 14px; color: #2E3A59;">
-  <p>&copy; 2024-2025 <a href="https://github.com/Aldanadev08" target="_blank" style="text-decoration: none; color: #2E3A59;">Aldanadev</a>. All rights reserved.</p>
+  <p>&copy; 2024 <a href="https://github.com/Aldanadev08" target="_blank" style="text-decoration: none; color: #2E3A59;">Aldanadev</a>. All rights reserved.</p>
 </footer>
+
