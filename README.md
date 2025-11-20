@@ -516,18 +516,20 @@ Feel free to contact me anytime!
   <h2 style="text-align: center; font-weight: bold; color: #2E3A59;">📊 GitHub Stats, Trophies & Top Repos</h2>
 
   <div style="margin-bottom: 40px;">
-    <h3 style="text-align: center; color: #2E3A59;">📊 **GitHub Stats**</h3>
-    <div style="display: flex; justify-content: center; gap: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aldanadev08&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" width="450">
-    </div>
+  <h3 style="text-align: center; color: #2E3A59;">📊 **GitHub Stats**</h3>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aldanadev08&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" width="450">
   </div>
+</div>
 
-  <div style="margin-bottom: 40px;">
-    <h3 style="text-align: center; color: #2E3A59;">🏆 **GitHub Trophies**</h3>
-    <div style="display: flex; justify-content: center; gap: 20px;">
-      <img src="https://github-profile-trophy.vercel.app/?username=Aldanadev08&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="450">
-    </div>
+<div style="margin-bottom: 40px;">
+  <h3 style="text-align: center; color: #2E3A59;">🔥 **GitHub Streak Stats**</h3>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aldanadev08&theme=radical" alt="GitHub Streak" width="450">
   </div>
+</div>
+
+
 ---
 
 ## Check out my Social Media
