@@ -18,7 +18,6 @@
   <p>💡 I have a strong passion for technology and enjoy leveraging it to create innovative solutions that can make a positive impact on society.</p>
   <p>🚀 My goal is to develop efficient, scalable, and user-friendly applications that address real-world challenges.</p>
   <p>📱 Experienced in building cross-platform mobile applications with <strong>React Native</strong> and modern web applications with <strong>Laravel</strong> and <strong>Vue.js</strong>.</p>
-  <p>🎮 I've developed multiplayer mobile games with real-time synchronization and voice recognition features.</p>
   <p>🛒 Experienced in creating complete e-commerce solutions with advanced filtering systems and responsive design.</p>
   <p>🤝 I am deeply interested in <strong>collaborative projects</strong> that allow me to learn from others and contribute to meaningful advancements in the tech world.</p>
   <p>🌟 When I'm not coding, I enjoy exploring emerging technologies, AI integration, and cybersecurity practices.</p>
