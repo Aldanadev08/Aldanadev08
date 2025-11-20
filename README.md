@@ -525,7 +525,7 @@ Feel free to contact me anytime!
   <div style="margin-bottom: 40px;">
     <h3 style="text-align: center; color: #2E3A59;">🏆 **GitHub Trophies**</h3>
     <div style="display: flex; justify-content: center; gap: 20px;">
-      <img src="https://github-profile-trophy.vercel.app/?username=Aldanadev08" alt="GitHub Trophies" width="450">
+      <img src="https://github-profile-trophy.vercel.app/?username=Aldanadev08&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="450">
     </div>
   </div>
 ---
