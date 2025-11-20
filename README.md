@@ -237,6 +237,11 @@ Feel free to contact me anytime!
         <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" width="100">
       </td>
       <td style="border: 2px solid blue; padding: 10px; border-radius: 10px;">
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" width="100">
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid blue; padding: 10px; border-radius: 10px;">
         <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" width="100">
       </td>
       <td style="border: 2px solid blue; padding: 10px; border-radius: 10px;">
