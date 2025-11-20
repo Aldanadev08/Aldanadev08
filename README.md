@@ -26,7 +26,6 @@
 ---
 
 ### 🌱 **Currently Learning**
-- Python  
 - 💻 Advanced AI/ML integration
 - 🔐 Cybersecurity & Ethical Hacking
 - 🎨 Advanced UI/UX Design with Figma
