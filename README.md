@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://yt3.googleusercontent.com/n2HuSqdI_kG5_ZDLRk-12oV6RGiL7Rhrqp5xt98BehSK3-MRE7uesBx3OWRNcuLBpwicSmqJQw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj">
+  <p align="center">
+  <img src="https://yt3.googleusercontent.com/UEumUw5CnDcAExnV8dKWqliChyIGtF5Xri5AiYXc4Q1tMzrrTdFR2-v7rEmhaL6V7MzSqvx7jw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="800">
+</p>
 </p>
 <h1 align="center">Hi, I'm Christian Aldana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg" width="35"></h1>
-<h3 align="center">Full-Stack Developer | Mobile App Developer | Tech Enthusiast</h3>
+<h3 align="center">Full-Stack Developer || Tech Enthusiast</h3>
 
 <!-- IMAGENES -->
 
@@ -417,6 +419,25 @@ Feel free to contact me anytime!
     </tr>
   </table>
 </div>
+
+
+<div style="margin: 20px 0;">
+  <h3 style="text-align: center; font-weight: bold; color: #2E3A59;">🧪 <strong>Testing & Quality Assurance</strong></h3>
+  <table style="width: 100%; border: none; text-align: center;">
+    <tr>
+      <td style="border: 2px solid green; padding: 10px; border-radius: 10px;">
+        <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" width="120">
+      </td>
+      <td style="border: 2px solid green; padding: 10px; border-radius: 10px;">
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" width="120">
+      </td>
+      <td style="border: 2px solid green; padding: 10px; border-radius: 10px;">
+        <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" width="120">
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <div style="margin: 20px 0;">
   <h3 style="text-align: center; font-weight: bold; color: #2E3A59;">💼 <strong>Enterprise & Business Systems</strong></h3>
