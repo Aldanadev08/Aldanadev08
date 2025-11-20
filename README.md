@@ -154,26 +154,12 @@ Feel free to contact me anytime!
 </div>
 
 <div style="margin: 20px 0;">
-  <h3 style="text-align: center; font-weight: bold; color: #2E3A59;">🤖 <strong>AI & Machine Learning</strong></h3>
-  <table style="width: 100%; border: none; text-align: center;">
-    <tr>
-      <td style="border: 2px solid green; padding: 10px; border-radius: 10px;">
-        <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" width="120">
-      </td>
-      <td style="border: 2px solid green; padding: 10px; border-radius: 10px;">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" width="120">
-      </td>
-      <td style="border: 2px solid green; padding: 10px; border-radius: 10px;">
-        <img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black" alt="Deepgram" width="120">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="margin: 20px 0;">
   <h3 style="text-align: center; font-weight: bold; color: #2E3A59;">🎙️ <strong>Voice & Speech Recognition</strong></h3>
   <table style="width: 100%; border: none; text-align: center;">
     <tr>
+       <td style="border: 2px solid orange; padding: 10px; border-radius: 10px;">
+        <img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black" alt="Deepgram" width="150">
+      </td>
       <td style="border: 2px solid orange; padding: 10px; border-radius: 10px;">
         <img src="https://img.shields.io/badge/Speech_to_Text-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="Speech to Text" width="150">
       </td>
