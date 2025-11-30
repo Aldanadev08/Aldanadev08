@@ -189,6 +189,14 @@ Feel free to contact me anytime!
         <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" width="100">
       </td>
     </tr>
+    <tr>
+      <td style="border: 2px solid blue; padding: 10px; border-radius: 10px;">
+        <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" width="100">
+      </td>
+      <td style="border: 2px solid blue; padding: 10px; border-radius: 10px;">
+        <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" width="100">
+      </td>
+    </tr>
   </table>
 </div>
 
